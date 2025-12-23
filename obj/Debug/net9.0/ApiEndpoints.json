@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "BulletinBoardApi.Controllers.AdsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Ads",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BulletinBoardApi.Controllers.AdsController",
+    "Method": "Create",
+    "RelativePath": "api/Ads",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ad",
+        "Type": "BulletinBoardApi.Models.Ad",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BulletinBoardApi.Controllers.AdsController",
+    "Method": "Update",
+    "RelativePath": "api/Ads/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedAd",
+        "Type": "BulletinBoardApi.Models.Ad",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BulletinBoardApi.Controllers.AdsController",
+    "Method": "Delete",
+    "RelativePath": "api/Ads/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BP7uxXnAKXg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chayaa\\BulletinBoardApi\\BulletinBoardApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chayaa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\chayaa\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
