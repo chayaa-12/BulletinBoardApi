@@ -32,3 +32,4 @@ C:\Users\chayaa\BulletinBoardApi\obj\Debug\net9.0\refint\BulletinBoardApi.dll
 C:\Users\chayaa\BulletinBoardApi\obj\Debug\net9.0\BulletinBoardApi.pdb
 C:\Users\chayaa\BulletinBoardApi\obj\Debug\net9.0\BulletinBoardApi.genruntimeconfig.cache
 C:\Users\chayaa\BulletinBoardApi\obj\Debug\net9.0\ref\BulletinBoardApi.dll
+C:\Users\chayaa\BulletinBoardApi\obj\Debug\net9.0\BulletinBoardApi.sourcelink.json
